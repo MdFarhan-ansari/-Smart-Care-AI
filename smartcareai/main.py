@@ -124,18 +124,18 @@ with col2:
     )
 with col3:
     st.page_link(
-        "pages/login.py",
+        "pages/Login.py",
         label="🔐 Login"
     )
 
 with col4:
     st.page_link(
-        "pages/register.py",
+        "pages/Register.py",
         label="📝 Register"
     )
 with col5:
     st.page_link(
-        "pages/profile.py",
+        "pages/Profile.py",
         label="📝 Profile"
     )
 
