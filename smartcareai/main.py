@@ -119,7 +119,7 @@ st.title("🏥 Smart Care AI")
 col1, col2, col3, col4, col5 = st.columns([6,1,1,1,1])
 with col2:
     st.page_link(
-        "pages/bmi.py",
+        "smartcareai/pages/bmi.py",
         label="⚖️ BMI Calculator"
     )
 with col3:
